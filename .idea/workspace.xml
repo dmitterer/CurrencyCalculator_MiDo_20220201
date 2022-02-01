@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e67bd47c-a6ec-418f-9d54-cbfd86795549" name="Changes" comment="Über die letzten 5 Tage habe ich den Währungsrechner programmiert, leider habe ich vergessen ein GitRep zu erstellen.">
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FSE-LAND_CurrencyCalculator_MiDo_20220201.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mido/ChainOfResponsibility/CollectionCurCal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mido/ChainOfResponsibility/CurCal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mido/ChainOfResponsibility/CurCalChfToEuro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mido/ChainOfResponsibility/CurCalDollarToEuro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mido/ChainOfResponsibility/CurCalEuroToChf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mido/ChainOfResponsibility/CurCalEuroToDollar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mido/ChainOfResponsibility/CurCalEuroToYen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mido/ChainOfResponsibility/CurCalYenToEuro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mido/ICollectionConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mido/IConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mido/Main_MiDo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mido/adapter/AdapterCollecCurCal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mido/decorator/Decorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mido/decorator/FeeDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mido/exception/NotResponsibleExept.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="4" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="24VYseZV3ntdlbOZt7rE5P3A1fn" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="company" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="I:\02_Schuldaten\01_IT-Kolleg\02_Schuljahr 2021-2022\01_5AKIF\FSE LAND\Abgeschlossene Aufgaben\Übungszettel 6 Mikroarchitektur (aufbek. am 15.12.2021)\FSE-LAND_CurrencyCalculator_MiDo_20220201\src\com\mido" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main_MiDo">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.mido.Main" />
+      <module name="FSE-LAND_CurrencyCalculator_MiDo_20220201" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main_MiDo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.mido.Main_MiDo" />
+      <module name="FSE-LAND_CurrencyCalculator_MiDo_20220201" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mido.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main_MiDo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e67bd47c-a6ec-418f-9d54-cbfd86795549" name="Changes" comment="" />
+      <created>1643717436014</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1643717436014</updated>
+      <workItem from="1643717437176" duration="32000" />
+      <workItem from="1643717521474" duration="20608000" />
+      <workItem from="1643744538886" duration="487000" />
+      <workItem from="1643745234150" duration="316000" />
+      <workItem from="1643745655674" duration="299000" />
+    </task>
+    <task id="LOCAL-00001" summary="Über die letzten 5 Tage habe ich den Währungsrechner programmiert, leider habe ich vergessen ein GitRep zu erstellen.">
+      <created>1643745942684</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1643745942684</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Über die letzten 5 Tage habe ich den Währungsrechner programmiert, leider habe ich vergessen ein GitRep zu erstellen." />
+    <option name="LAST_COMMIT_MESSAGE" value="Über die letzten 5 Tage habe ich den Währungsrechner programmiert, leider habe ich vergessen ein GitRep zu erstellen." />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/com/mido/ChainOfResponsibility/CurCalEuroToChf.java</url>
+          <line>12</line>
+          <properties class="com.mido.ChainOfResponsibility.CurCalEuroToChf" method="conver">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/com/mido/Main_MiDo.java</url>
+          <line>16</line>
+          <properties class="com.mido.Main_MiDo">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
